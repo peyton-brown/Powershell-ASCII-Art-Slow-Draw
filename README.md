@@ -22,5 +22,3 @@
     - Magenta
     - Red
     - Yellow
-
-[Source](https://davespowershellblog.wordpress.com/2017/02/11/slow-crawl-text-just-for-fun/)
