@@ -1,7 +1,7 @@
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 Clear-Host
 
-function Write-Slowly ($text,$color) {
+function Write-Slow_Draw ($text,$color) {
     if (!($color -match "Black|Blue|Cyan|DarkBlue|DarkCyan|DarkGray|DarkGreen|DarkMagenta|DarkRed|DarkYellow|Gray|Green|Magenta|Red|Yellow")) {$color = "white"}
     $i = 0
 
@@ -16,7 +16,7 @@ function Write-Slowly ($text,$color) {
 
 while($true) {
     Start-Sleep -s 1
-    Write-Slowly "
+    Write-Slow_Draw "
 
 
                                          ``````````````````
