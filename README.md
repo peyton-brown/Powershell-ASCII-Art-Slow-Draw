@@ -2,7 +2,7 @@
 #### Recommended to use [Powershell 7](https://github.com/PowerShell/PowerShell#get-powershell)
 ---
 
-### You can find your own ASCII art images either from [TEXT-IMAGE.com](https://www.text-image.com/convert/ascii.html) or from my [Python converter](https://github.com/peyton-brown/ASCII-Art-Generator).
+### You can find your own ASCII art images from [TEXT-IMAGE.com](https://www.text-image.com/convert/ascii.html).
 
 ---
 
